@@ -1,6 +1,9 @@
 body{
     background-color: darkcyan;
     background-image: url("../images/matrix-office.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
 }
 
@@ -27,6 +30,9 @@ h1{
 }
 
 @media screen and (max-width: 480px){
+    body{
+        background-size: ;
+    }
     h1{
         font-size: 120%;
     }

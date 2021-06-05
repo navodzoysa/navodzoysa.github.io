@@ -1,6 +1,5 @@
 body{
-    background-color: darkcyan;
-    background-image: url("../images/matrix-office.jpg");
+    background-color: rgb(236, 243, 243);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -12,7 +11,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: honeydew;
+    color: rgb(26, 26, 26);
     font-family: 'Rubik Mono One';
     font-size: 22px;
 }

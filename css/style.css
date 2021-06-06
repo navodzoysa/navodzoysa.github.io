@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    margin: 0;
 }
 
 .container{
@@ -16,13 +17,23 @@ body{
     font-size: 22px;
 }
 
+.short-text{
+    font-family: 'Zilla Slab Highlight', cursive;
+    text-align: center;
+    font-size: 250%;
+    margin: 0;
+    margin-bottom: 2%;
+}
+
 h1{
     text-align: center;
     margin: 0;
-    margin-bottom: 20px;
+    margin-bottom: 1%;
 }
 
 h2{
+    margin: 0;
+    margin-bottom: 1%;
     text-align: center;
 }
 
@@ -32,17 +43,57 @@ h2{
     justify-content: center;
 }
 
-.short-text{
-    font-family: 'Libre Barcode 39 Text', cursive;
-    text-align: center;
-    font-size: 250%;
+.explanation-text{
+    text-align: justify;
+    margin: 0;
+    padding: 0% 20% 0% 20%;
+    font-family: 'Source Code Pro', monospace;
+    margin-bottom: 2%;
+}
+
+.projects{
+    width: 100%;
+}
+
+.project-header{
     margin: 0;
 }
 
-.explanation-text{
-    text-align: justify;
-    padding: 0% 20% 0% 20%;
-    font-family: 'Source Code Pro', monospace;
+.fieldr{
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 100%;
+    padding: 100;
+    background-color: #53CDF6;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.review-insight{
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 100%;
+    padding: 100;
+    background-color: #0401a0;
+    color: #fff;
+    text-align: center;
+}
+
+.premier-league{
+    font-family: 'Russo One', sans-serif;
+    width: 100%;
+    padding: 100;
+    background-color: #9b0040;
+    color: #fff;
+    text-align: center;
+}
+
+.train-booking{
+    font-family: 'Russo One', sans-serif;
+    width: 100%;
+    padding: 100;
+    background-color: #008020;
+    color: #fff;
+    text-align: center;
 }
 
 .tech{
@@ -55,7 +106,7 @@ h2{
 }
 
 footer{
-    color: #ffffff;
+    color: #000000;
     text-align: center;
     font-family: monospace;
 }

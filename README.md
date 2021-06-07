@@ -1,2 +1,3 @@
 # My portfolio website
-navodzoysa.github.io
+My portfolio website developed using HTML and CSS 
+https://navodzoysa.github.io/

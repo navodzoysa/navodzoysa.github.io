@@ -1,2 +1,2 @@
-# navodzoysa.github.io
-My portfolio website
+# My portfolio website
+navodzoysa.github.io

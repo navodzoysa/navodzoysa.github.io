@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b65a6db.css",
+    "main.js": "/static/js/main.64bf94c6.js",
+    "static/js/787.4de85eaf.chunk.js": "/static/js/787.4de85eaf.chunk.js",
+    "static/media/train seat booking image.png": "/static/media/train seat booking image.7a08fb400e2b9a4d5318.png",
+    "static/media/fieldr image.png": "/static/media/fieldr image.208d872a1105f65b99d0.png",
+    "static/media/review insight analysis.png": "/static/media/review insight analysis.e9bf4a1cc2b758c776bd.png",
+    "static/media/premier league manager image.png": "/static/media/premier league manager image.2e4c2f2d2e63cc12dab8.png",
+    "static/media/github-logo.png": "/static/media/github-logo.1c95b85d86a7c25b6f3c.png",
+    "static/media/medium-logo.png": "/static/media/medium-logo.671d63e8a5f078b0abb1.png",
+    "static/media/linkedin-logo.png": "/static/media/linkedin-logo.9a1a7f8162140e296345.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.0b65a6db.css.map": "/static/css/main.0b65a6db.css.map",
+    "main.64bf94c6.js.map": "/static/js/main.64bf94c6.js.map",
+    "787.4de85eaf.chunk.js.map": "/static/js/787.4de85eaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b65a6db.css",
+    "static/js/main.64bf94c6.js"
+  ]
+}

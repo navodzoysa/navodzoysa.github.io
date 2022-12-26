@@ -123,11 +123,15 @@ h3{
 
 .logos{
     height: 110px;
+	padding-left: 9.35px;
+	padding-right: 9.35px;
 }
 
 .contact-logos{
     height: 48px;
     margin-bottom: 0.5%;
+	padding-left: 0.33%;
+	padding-right: 0.33%;
 }
 
 .footer{

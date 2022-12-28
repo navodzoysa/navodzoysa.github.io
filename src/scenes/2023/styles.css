@@ -1,0 +1,176 @@
+body{
+    background-color: #fbf9fa;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    height: 100%;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    font-family: 'Rubik Mono One';
+    font-size: 22px;
+    height: 100vh;
+}
+
+.short-text{
+    font-family: 'Zilla Slab Highlight', cursive;
+    text-align: center;
+    font-size: 250%;
+    margin: 0;
+    margin-bottom: 2%;
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 1%;
+}
+
+h2{
+    margin: 0;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.about{
+    background-color: #fbf9fa;
+    text-align: center;
+    justify-content: center;
+}
+
+.explanation-text{
+    text-align: justify;
+    margin: 0;
+    padding: 0% 30% 0% 30%;
+    font-family: 'Source Code Pro', monospace;
+    margin-top: 1%;
+}
+
+.projects{
+    width: 100%;
+}
+
+.project-header{
+    margin: 0;
+    padding: 1%;
+    font-size: 200%;
+}
+
+.landscape-image{
+    width: 60%;
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 1%;
+}
+
+.fieldr{
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 100%;
+    padding: 100;
+    background-color: #53CDF6;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.portrait-image{
+    border: 1px solid rgb(233, 233, 233);
+    border-radius: 5%;
+}
+
+.review-insight{
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 100%;
+    padding: 100;
+    background-color: #0401a0;
+    color: #fff;
+    text-align: center;
+}
+
+.premier-league{
+    font-family: 'Russo One', sans-serif;
+    width: 100%;
+    padding: 100;
+    background-color: #9b0040;
+    color: #fff;
+    text-align: center;
+}
+
+.train-booking{
+    font-family: 'Russo One', sans-serif;
+    width: 100%;
+    padding: 100;
+    background-color: #008020;
+    color: #fff;
+    text-align: center;
+}
+
+.tech{
+    color: #000000;
+    background-color: #fbf9fa;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.logos{
+    height: 110px;
+	padding-left: 9.35px;
+	padding-right: 9.35px;
+}
+
+.contact-logos{
+    height: 48px;
+    margin-bottom: 0.5%;
+	padding-left: 0.33%;
+	padding-right: 0.33%;
+}
+
+.footer{
+    background-color: #c5c5c5;
+    width: 100%;
+    text-align: center;
+    font-family: monospace;
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+@media screen and (max-width: 720px){
+    h2{
+        font-size: 120%;
+    }
+    .explanation-text{
+        text-align: center;
+        margin: 0%;
+        padding: 5% 5%;
+        font-size: 85%;
+    }
+    .short-text{
+        font-size: 160%;
+    }
+
+    .portrait-image{
+        width: 70%;
+    }
+
+    .landscape-image{
+        width: 90%;
+    }
+
+    .footer{
+        font-size: large;
+    }
+}

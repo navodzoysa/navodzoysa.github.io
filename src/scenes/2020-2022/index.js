@@ -3,7 +3,7 @@ import './styles.css';
 
 function InitialPortfolio() {
 	return (
-		<div className="container">
+		<div className="containerOld">
 			<h1>Navod Zoysa</h1>
 			<p className="short-text">Hello World! Welcome to my corner on the Internet.</p>
 			<div className="about">
@@ -87,7 +87,7 @@ function InitialPortfolio() {
 			{/* <div>
 				<h2>Articles</h2>
 			</div> */}
-			<div className="footer">
+			<div className="footerOld">
 				<p>Get in touch with me via <a href="mailto:navod.contact@gmail.com">email</a> or through my socials below</p>
 				<a href="https://github.com/navodzoysa" target="_blank" rel="noreferrer"><img className="contact-logos" alt="GitHub Logo" src={require("./images/logos/github-logo.png")} /></a>
 				<a href="https://www.linkedin.com/in/navodzoysa/" target="_blank" rel="noreferrer"><img className="contact-logos" alt="Linkedin Logo" src={require("./images/logos/linkedin-logo.png")} /></a>

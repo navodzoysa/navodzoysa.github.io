@@ -7,7 +7,7 @@ body{
     margin: 0;
 }
 
-.container{
+.containerOld{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -134,7 +134,7 @@ h3{
 	padding-right: 0.33%;
 }
 
-.footer{
+.footerOld{
     background-color: #c5c5c5;
     width: 100%;
     text-align: center;

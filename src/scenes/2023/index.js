@@ -167,7 +167,7 @@ function Portfolio2023() {
 									<br />
 									I'm currently employed at<span> </span>
 									<Anchor href="https://entgra.io" target="_blank">Entgra.io</Anchor>
-									<span> </span>as an Associate Software Engineer.
+									<span> </span>as a Software Engineer.
 									<br /><br />
 									I have experience contributing to developing and testing web/mobile applications and end-to-end software solutions.
 									In my free time I have a keen interest in the indie game development scene and recently got into embedded software development.

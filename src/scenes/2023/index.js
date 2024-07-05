@@ -163,14 +163,16 @@ function Portfolio2023() {
 								<Text
 									className={classes.aboutText}
 								>
-									I have been working in the software development industry since 2020 as a Full Stack Developer.
-									<br />
-									I'm currently employed at<span> </span>
-									<Anchor href="https://entgra.io" target="_blank">Entgra.io</Anchor>
-									<span> </span>as a Software Engineer.
+									I’m someone who is curious and passionate about problem solving and acquiring knowledge on new technologies to improve myself, as well as to inspire and help out others who can become a better version of themselves.
 									<br /><br />
-									I have experience contributing to developing and testing web/mobile applications and end-to-end software solutions.
-									In my free time I have a keen interest in the indie game development scene and recently got into embedded software development.
+									I have 3+ years experience in the Unified Endpoint Management (UEM) and Mobile Device Management (MDM) domains and I’m currently leading the efforts that specializes in Windows device management at
+									<span> </span>
+										<Anchor href="https://entgra.io" target="_blank">Entgra</Anchor>
+									<span></span>.
+									<br /><br />
+									Tools and technologies that I have hands-on experience include Java, JavaScript / TypeScript, .NET, React, MySQL, MongoDB, Grafana, Git, Docker, Amazon Web Services (AWS) and Microsoft Azure / Intune.
+									<br /><br />
+									In my spare time I play video games (currently <Anchor href="https://youtu.be/E3Huy2cdih0" target="_blank">Elden Ring</Anchor> and <Anchor href="https://youtu.be/rE7KTE28HrA" target="_blank">Helldivers 2</Anchor>), listen to music (favourite band is <Anchor href="https://youtu.be/tL25rbnvM4o" target="_blank">Nightwish</Anchor>) and watch The Lord of the Rings trilogy at least once every year :)
 								</Text>
 								<Group mb={rem(30)}>
 									<Anchor href="mailto:navod.contact@gmail.com">
@@ -199,7 +201,7 @@ function Portfolio2023() {
 						<Footer className={classes.footer} height={50} p="md">
 							<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
 								<Text color="white" size="sm" fluid>
-									Navod Zoysa © 2023. All rights reserverd.
+									Navod Zoysa © {new Date().getFullYear()}. All rights reserverd.
 								</Text>
 							</div>
 						</Footer>
